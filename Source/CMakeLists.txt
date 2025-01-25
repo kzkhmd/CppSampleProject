@@ -1,1 +1,1 @@
-add_executable(CppSampleProject Main.cpp)
+add_executable(CppSampleProject Main.cpp MyLib.cpp)
